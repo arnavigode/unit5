@@ -1,4 +1,3 @@
-/** @format */
 
 function Login() {
 	return (
